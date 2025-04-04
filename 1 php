@@ -1,0 +1,31 @@
+<body bgcolor="yellow">
+<form>
+<label for="firstname">firstname:</label><br>
+<input type="text"id="firstname"name="firstname"><br>
+<label for="lastname">lastname:</label><br>
+<input type="lastname">lastname:</label><br>
+<label for="number">enter the age:</label><br>
+<form>
+<input type="radio"name="r">1-25<br>
+<input type="radio"name="r">25-50<br>
+<input type="radio"name="r">above 50<br>
+</form>
+<label for="lastname">gender:</label><br>
+<form>
+<input type="radio"name="r">male<br>
+<input type="radio"name="r">female<br>
+<input type="radio"name="r">non-binary<br>
+</form>
+<label for="lastname">source:</label><br>
+<input type="text"id="lastname"name="lastname"><br>
+<label for="lastname">destination:</label><br>
+<input type="text"id="lastname"name="lastname"><br>
+<label for="lastname">berth_performance:</label><br>
+<input type="text"id="lastname"name="lastname"><br>
+<form>
+<input type="radio"name="r">A/C<br>
+<input type="radio"name="r">SLEEPER<br>
+<input type="radio"name="r">OTHER<br>
+</form>
+</form>
+<a href=" C:\Users\srika\OneDrive\Desktop\durga\p3.html">next</a>
