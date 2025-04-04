@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>durga web page</title>
+</head>
+<body bgcolor="green">
+<h1 align="center">train reservation system</h1>
+<form>
+<label for="username">username:</label><br>
+<input type="text"id="username"name="username"><br>
+<label for="password">password:</label><br>
+<input type="password"id="password"name="password"><br>
+<a href="C:\Users\srika\OneDrive\Desktop\durga\p2.html">next</a>
+</form>
+</body>
+</html>
