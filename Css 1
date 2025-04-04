@@ -1,0 +1,13 @@
+<h1 align="center">payment details</h1>
+<body bgcolor="lavender">
+<form>
+<label for="firstname">payment method:</label><br>
+<form>
+<input type="radio"name="r">credit<br>
+<input type="radio"name="r">debit<br>
+<input type="radio"name="r">phone pay<br>
+</form>
+<label for="firstname">enter the amount:</label><br>
+<input type="text"id="firstname"name="firstname"><br>
+</form>
+<a href="C:\Users\srika\OneDrive\Desktop\durga\p4.html">pay</a>
